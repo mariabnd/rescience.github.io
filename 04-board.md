@@ -305,7 +305,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-4107-5693](http://orcid.org/0000-0003-4107-5693)
   
 * [Kamil S Jaron](https://github.com/KamilSJaron)  
-  Evolutionary biology - R, C/C++, python  
+  Evolutionary biology - R, C/C++, Python  
   ORCID: [0000-0003-1470-5450](http://orcid.org/0000-0003-1470-5450)
 
 * [Anne Urai](https://github.com/anne-urai)  
@@ -429,7 +429,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-0427-7333](https://orcid.org/0000-0003-0427-7333)
 
 * [Pritish Patil](https://github.com/iampritishpatil)  
-  Computational Neurocience - Python (Neuron, Moose, Brian), Maltlab  
+  Computational Neurocience - Python (Neuron, Moose, Brian), Matlab  
   ORCID: [0000-0002-2655-4090](orcid.org/0000-0002-2655-4090)
 
 * [Maarten Trompper](https://github.com/digitalheir)  
@@ -506,7 +506,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   ORCID: [0000-0002-4998-5918](https://orcid.org/0000-0002-4998-5918)
 
 * [Nicolás Guarín-Zapata](https://github.com/nicoguaro)  
-  Computational & Solid Mechanics, Wave Propagation- Python, Matlba, Fortran  
+  Computational & Solid Mechanics, Wave Propagation- Python, Matlab, Fortran  
   ORCID: [0000-0002-9435-1914](https://orcid.org/0000-0002-9435-1914)
   
 * [Roman Grothausmann](https://github.com/romangrothausmann)  
@@ -520,3 +520,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Robin Gutzen](https://github.com/rgutzen)  
   Computational Neuroscience - Python  
   ORCID: [0000-0001-7373-5962](https://orcid.org/0000-0001-7373-5962)
+
+* [Maria Bekker-Nielsen Dunbar](https://github.com/mariabnd)  
+  Public Health - R, Python  
+  ORCID: [0000-0002-7249-3524](https://orcid.org/0000-0002-7249-3524)
